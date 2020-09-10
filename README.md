@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Orcus Engine](https://github.com/freerangerstudios/OrcusEngine)
 
-- 🌱 I’m currently learning **C++ and SFML**
+- 🌱 I’m currently learning **C++ and Unreal Engine**
 
 - 📫 Reach me at **freeranger05@gmail.com**
 
