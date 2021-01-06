@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on a 3d voxel game using C++ and Vulkan
 - 🌱 I'm currently learning Vulkan and Unreal Engine
-- 📫 You can reach me via [e-mail](mailto:freeranger05@gmail.com) or at [reddit](https://reddit.com/u/freeranger05)
+- 📫 You can reach me via [e-mail](mailto:freeranger05@gmail.com) or [reddit](https://reddit.com/u/freeranger05)
 
 
 <h3 align="left">I am familiar with:</h3>
