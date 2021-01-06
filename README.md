@@ -1,7 +1,7 @@
 <h1>Hey there!</h1>
 <h3>I'm a hobbyist game developer from Sweden</h3>
 
-- 🔭 I'm currently working on a 3d voxel game using C++ and Vulkan
+- 🔭 I'm currently working on a 3D voxel game using C++ and Vulkan and a minecraft mod called Revamped
 - 🌱 I'm currently learning Vulkan and Unreal Engine
 - 📫 You can reach me via [e-mail](mailto:freeranger05@gmail.com) or [reddit](https://reddit.com/u/freeranger05)
 
