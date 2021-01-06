@@ -1,9 +1,9 @@
 <h1>Hey there!</h1>
 <h3>I'm a hobbyist game developer from Sweden</h3>
 
-- 🔭 I'm currently working on a 3D voxel game using C++ and Vulkan
-- 🔭 I'm also working on a minecraft mod called Revamped
-- 🌱 I'm currently learning Vulkan, Unreal Engine and Fabric
+- 🔭 I'm currently working on a [3D voxel game](https://github.com/freerangerstudios) using C++ and Vulkan
+- 🔭 I'm also working on a minecraft mod called [Revamped](https://github.com/freerangerstudios)
+- 🌱 I'm currently learning [Vulkan](https://www.khronos.org/vulkan/), [Unreal Engine](https://unrealengine.com) and [Fabric](https://fabricmc.net)
 - 📫 You can reach me via [e-mail](mailto:freeranger05@gmail.com) or [reddit](https://reddit.com/u/freeranger05)
 
 
@@ -23,4 +23,4 @@
 </p>
 
 <h3>Here's a terrible joke!</h3>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api" alt="Insert joke here... Oh, this is embarassing..." />
