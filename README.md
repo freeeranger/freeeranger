@@ -2,8 +2,8 @@
 <h3>I'm a hobbyist game developer from Sweden</h3>
 
 - 🔭 I'm currently working on a [3D voxel game](https://github.com/freerangerstudios) using C++ and Vulkan
-- 🔭 I'm also working on a minecraft mod called [Revamped](https://github.com/freerangerstudios)
-- 🌱 I'm currently learning [Vulkan](https://www.khronos.org/vulkan/), [Unreal Engine](https://unrealengine.com) and [Fabric](https://fabricmc.net)
+- 🔭 I'm also working on a minecraft mod called [Chorus Warps](https://github.com/freerangerstudios/choruswarps)
+- 🌱 I'm currently learning [Vulkan](https://www.khronos.org/vulkan/) and [Unreal Engine](https://unrealengine.com)
 - 📫 You can reach me via [e-mail](mailto:freeranger05@gmail.com) or [reddit](https://reddit.com/u/freeranger05)
 
 
